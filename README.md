@@ -5,10 +5,13 @@ Virtual Community Support, a project initiated as part of the Industrial Summer 
 The Virtual Community Support platform enables companies to plan and manage employee-driven community service initiatives
 <br>
 <b>Technologies Used</b>
+<br>
 Frontend: Angular
+<br>
 Backend: .NET
 <br>
 <b>Project Goals</b>
+<br>
 Learn and improve skills in Angular and .NET
 
 Strengthen coding practices and software development understanding
