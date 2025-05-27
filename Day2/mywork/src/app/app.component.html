@@ -1,0 +1,15 @@
+<h1>Welcome to my introductory Form!</h1>
+<form action="" method="get">
+  <label>Enter your Name : </label>
+  <input type="text" placeholder="Your name" [formControl]="name">
+  <br>
+  <br>
+  <label>Enter your Password : </label>
+  <input type="password" placeholder="Your password" [formControl]="password">
+  <br>
+  <br>
+  <button type="button" (click)="displayValue()">Submit</button>
+  <button type="button" (click)="setValues()">Display my original values</button>
+  <!-- <h3>{{name.value}}</h3>
+  <h3>{{password.value}}</h3> -->
+</form>

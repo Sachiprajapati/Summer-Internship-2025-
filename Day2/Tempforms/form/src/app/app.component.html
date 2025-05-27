@@ -1,0 +1,16 @@
+<h1>Welcome to introductory Form!</h1>
+<form>
+  <label>Enter your Name:</label>
+  <input type="text" placeholder="Your name" [(ngModel)]="name" name="name">
+  <br><br>
+
+  <label>Enter your Password:</label>
+  <input type="password" placeholder="Your password" [(ngModel)]="password" name="password">
+  <br><br>
+
+  <button type="button" (click)="displayValue()">Submit</button>
+  <button type="button" (click)="setValues()">Display my default values</button>
+
+  <h3>{{ name }}</h3>
+  <h3>{{ password }}</h3>
+</form>
