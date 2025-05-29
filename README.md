@@ -2,9 +2,8 @@
 <br>
 Virtual Community Support, a project initiated as part of the Industrial Summer Internship program. This initiative is designed to enhance the industrial exposure and technical competencies of students, specifically in modern web development technologies.
 <br>
-This repository contains all the work which i am performing durning this ongoing internship, later I shall proceed with the project.
 <br>
-The Virtual Community Support platform enables companies to plan and manage employee-driven community service initiatives
+This repository contains all the work which i am performing durning this ongoing internship, later I shall proceed with the project.
 <br>
 <b>Technologies Used</b>
 <br>
