@@ -4,7 +4,7 @@ This repository hosts the development work for the **Virtual Community Support P
 
 ## About This Repository
 
-This repository contains all the code, configurations, and documentation for the Virtual Community Support project, representing the ongoing work performed during my internship. It serves as a central hub for tracking progress and showcasing the development lifecycle of the application.
+This repository contains all the code, configurations, and documentation for the Virtual Community Support project, representing the ongoing work performed during my internship. It serves as a central hub for my tracking progress.
 
 ## Project Overview & Goals
 
