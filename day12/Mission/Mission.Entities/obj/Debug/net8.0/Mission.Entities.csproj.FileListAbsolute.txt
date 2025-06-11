@@ -1,0 +1,14 @@
+D:\tatvasoft\10-06 day12\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.deps.json
+D:\tatvasoft\10-06 day12\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.runtimeconfig.json
+D:\tatvasoft\10-06 day12\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.dll
+D:\tatvasoft\10-06 day12\Mission\Mission.Entities\bin\Debug\net8.0\Mission.Entities.pdb
+D:\tatvasoft\10-06 day12\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+D:\tatvasoft\10-06 day12\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\tatvasoft\10-06 day12\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+D:\tatvasoft\10-06 day12\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.AssemblyInfo.cs
+D:\tatvasoft\10-06 day12\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+D:\tatvasoft\10-06 day12\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.dll
+D:\tatvasoft\10-06 day12\Mission\Mission.Entities\obj\Debug\net8.0\refint\Mission.Entities.dll
+D:\tatvasoft\10-06 day12\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.pdb
+D:\tatvasoft\10-06 day12\Mission\Mission.Entities\obj\Debug\net8.0\Mission.Entities.genruntimeconfig.cache
+D:\tatvasoft\10-06 day12\Mission\Mission.Entities\obj\Debug\net8.0\ref\Mission.Entities.dll
